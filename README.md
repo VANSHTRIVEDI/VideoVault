@@ -1,16 +1,14 @@
-# black_coffer
+VideoVault
+VideoVault is a Flutter-based application that allows users to capture, upload, and securely store videos in the cloud using Firebase. With secure authentication, users can add details such as location and description to their videos, ensuring they are well-organized and easily accessible anytime. Effortlessly manage your video library on the go.
 
-A new Flutter project.
+Features
 
-## Getting Started
+Record Videos: Capture videos directly within the app.
 
-This project is a starting point for a Flutter application.
+Upload to Cloud: Securely upload videos to Firebase.
 
-A few resources to get you started if this is your first Flutter project:
+Secure Authentication: Ensure only authorized users can access the videos.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Add Details: Attach location and description to each video for better organization.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Manage Library: Easily access and manage your video library from anywhere.
